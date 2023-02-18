@@ -1,5 +1,5 @@
 console.log('Fetching animals data...');
-fetch('/animaisapi.json')
+fetch('/amazing-animals/animaisapi.json')
   .then(response => response.json())
   .then(data => {
     console.log(data); // log the data to make sure it's being loaded correctly
