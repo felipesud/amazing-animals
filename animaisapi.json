@@ -1,18 +1,32 @@
 [
   {
-    "specie": "Lobos",
-    "total": 4874
+    "specie": "Wolf",
+    "total": 4874,
+    "description": "Wolves are mammals belonging to the Canidae family, and are social animals that live in groups called packs. They have a dense, dark coat, with a bushy tail, and are known for their ability to hunt in groups. There are about 30 species of wolves, including the gray wolf, red wolf, and Ethiopian wolf."
   },
   {
-    "specie": "Raposas",
-    "total": 5374
+    "specie": "Fox",
+    "total": 5374,
+    "description": "Foxes are omnivorous mammalian animals belonging to the Canidae family. They are medium-sized vulpines characterized by a long snout and a long, bushy tail. They also have oval-shaped pupils, similar to those of felines.Of the approximately 40 species recognized as foxes, only 12 belong to the Vulpes genus of \"true foxes,\" of which the red fox is the most common."
   },
   {
-    "specie": "Esquilos",
-    "total": 12340
+    "specie": "Squirrel",
+    "total": 12340,
+    "description": "Squirrels are small rodent mammals belonging to the Sciuridae family. Commonly associated with forests and woodlands, these animals have long, bushy tails and sharp, curved teeth for gnawing nuts and seeds. There are about 200 species of squirrels, which vary in size and coloration, with some species known for their ability to glide between trees with the help of their gliding membranes."
   },
   {
-    "specie": "Ursos",
-    "total": 230
+    "specie": "Bear",
+    "total": 230,
+    "description": "Bears are large mammalian animals belonging to the Ursidae family. Characterized by their dense fur, short snout, and sharp claws, bears are omnivorous animals that feed on fruits, nuts, insects, and meat. There are eight recognized species of bears, including the polar bear, brown bear, and black bear, and are animals that inhabit a variety of environments, from forests to Arctic tundras."
+  },
+  {
+    "specie": "Monkey",
+    "total": 500,
+    "description": "Monkeys are primates belonging to the Cercopithecidae family, and are highly intelligent and sociable animals. They have hands with opposable thumbs, which allow them to grip objects and food, and have a wide variety of vocalizations to communicate. There are more than 260 species of monkeys, including the spider monkey, rhesus monkey, and capuchin monkey."
+  },
+  {
+    "specie": "Lion",
+    "total": 2025,
+    "description": "Lions are large felines belonging to the Felidae family, and are known for their luxurious mane around the neck of males. They are carnivorous animals that feed mainly on large mammals, such as zebras and buffalos. There are two subspecies of lions, the African lion and the Asiatic lion, and are animals that inhabit savannas and tropical forests."
   }
 ]

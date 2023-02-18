@@ -7,7 +7,7 @@
     "build": "webpack --mode production",
     "dev": "webpack --mode development --watch"
   },
-  "author": "",
+  "author": "Felipe Belisário",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.14.3",
