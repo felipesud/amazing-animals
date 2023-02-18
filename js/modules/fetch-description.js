@@ -1,4 +1,4 @@
-fetch('/animaisapi.json')
+fetch('./animaisapi.json')
   .then(response => response.json())
   .then(data => {
     data.forEach(animal => {
